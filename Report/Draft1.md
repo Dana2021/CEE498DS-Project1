@@ -1,4 +1,4 @@
-# Try Manubot: Practice editing this manuscript
+# Project 1: London Bike-Sharing
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -6,7 +6,8 @@
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://manubot.github.io/try-manubot/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/manubot/try-manubot/workflows/Manubot/badge.svg)](https://github.com/manubot/try-manubot/actions)
 
-## Manuscript description
+Anye Wang, Camila , Dana Monzer, Jingzi Chen
+## Abstract
 
 <!-- usage note: edit this section. -->
 
@@ -15,6 +16,50 @@ This repository contains a demo manuscript, intended as a playground for everyon
 To edit the manuscript, make changes to the files in the [`content`](content) directory.
 You can edit files with the GitHub web interface by using the pencil icon, as shown in the [getting started video](https://manubot.org/docs/getting-started.html).
 Alternatively, if you have experience with Git and GitHub, you can fork this repository and make a traditional [pull request](https://help.github.com/en/articles/creating-a-pull-request).
+
+## Introduction
+
+
+## Literature Review 
+
+
+
+## Methods 
+
+
+### Exploratory Data Analysis 
+
+Mention all methods explored, and which ones were chosen and why (similar to EDA report)
+
+
+### Machine Learning 
+
+
+## Results 
+
+
+### Exploratory Data Analysis 
+
+Mention all methods explored, and which ones were chosen and why (similar to EDA report)
+
+
+### Machine Learning 
+
+<!-- usage note: Keep the sections below for reference for now-->
+
+## Discussion 
+
+
+## Conclusion 
+
+
+## References 
+
+
+
+
+
+# The rest is from Manubot template 
 
 ## Manubot
 
