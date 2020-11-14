@@ -2,9 +2,9 @@
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
-[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://manubot.github.io/try-manubot/)
-[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://manubot.github.io/try-manubot/manuscript.pdf)
-[![GitHub Actions Status](https://github.com/manubot/try-manubot/workflows/Manubot/badge.svg)](https://github.com/manubot/try-manubot/actions)
+[![HTML Syllabus](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://Dana2021.github.io/CEE498DS-Project1/)
+[![PDF Syllabus](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://Dana2021.github.io/CEE498DS-Project1/manuscript.pdf)
+[![GitHub Actions Status](https://github.com/Dana2021/CEE498DS-Project1/workflows/Manubot/badge.svg)](https://github.com/Dana2021/CEE498DS-Project1/actions)
 
 Anye Wang, Camila , Dana Monzer, Jingzi Chen
 ## Abstract
