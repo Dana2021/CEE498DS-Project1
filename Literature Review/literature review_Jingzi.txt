@@ -13,4 +13,4 @@ The experiment of this research was based on the bike rental record and the weat
 From this research, I learned that the factors should be transferred into reasonable values firstly and the method of transferring the data are diverse. Besides, the simple neural network models sometimes cannot solve the problem accurately. The combination of different algorithm are needed. Moreover, there are many optimized methods thus researchers should choose the most suitable optimized method to improve the accuracy. These tips can be useful for our project.
 
 Reference:
-F. Lin, S. Wang, J. Jiang, W. Fan and Y. Sun, "Predicting public bicycle rental number using multi-source data," 2017 International Joint Conference on Neural Networks (IJCNN), Anchorage, AK, 2017, pp. 1502-1509, doi: 10.1109/IJCNN.2017.7966030.
+Lin, F., Wang, S., Jiang, J., Fan, W., & Sun, Y. (2017, May). Predicting public bicycle rental number using multi-source data. In 2017 International Joint Conference on Neural Networks (IJCNN) (pp. 1502-1509). IEEE.
